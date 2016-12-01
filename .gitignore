@@ -1,5 +1,7 @@
 index.js
 
+*.swp
+
 # Logs
 logs
 *.log
